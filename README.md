@@ -3,7 +3,7 @@
 👋 Hi, I’m Garry! Born and raised in Durham, NC, U.S - home to some of the biggest [colleges](https://www.discoverdurham.com/community-culture/colleges/), [amazing food](https://www.discoverdurham.com/food-drink/), and a [emerging tech city!](https://www.wraltechwire.com/2021/04/27/study-durham-ranks-no-2-raleigh-no-7-as-best-cities-to-start-a-business/)
 
 Before being immersed in all things startup, I worked in the non-profit space for over five years, at a local YMCA running the operations of an after school program and summer camp. I feel like
-if you can work with middle school aged kids, you literally can work with anyone! 🤣 Those were some great years where I really built upon my work ethic skills: having patience, effective communication, and 
+if you can work with middle school aged kids, you literally can work with anyone! 🤣 Those were some great years where I really built on my soft skills: having patience, effective communication, and 
 maintaining the highlest level of responsibility, just to name a few! 😅
 
 I jumped head first into a startup through a connection from a friend and hadn't looked back since. [First.io](https://www.first.io/), is a predictive analytics platform that helps real estate agents
