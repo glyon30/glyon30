@@ -1,4 +1,4 @@
-**BIO**
+## BIO
 
 👋 Hi, I’m Garry! Born and raised in Durham, NC, U.S - home to some of the biggest [colleges](https://www.discoverdurham.com/community-culture/colleges/), [amazing food](https://www.discoverdurham.com/food-drink/), and a [emerging tech city!](https://www.wraltechwire.com/2021/04/27/study-durham-ranks-no-2-raleigh-no-7-as-best-cities-to-start-a-business/)
 
@@ -13,7 +13,7 @@ spanned over four years and I'm forever grateful to have been a part of an amazi
 
 Outside of work, I spend my time baking yummy desserts, dog parking with my furry friend, Jax or binging the latest Netflix series!
 
-**MY ROLE**
+## MY ROLE
 
 That same friend led me to my current role .. I know, she's amazing ☺️! 
 
@@ -23,7 +23,7 @@ who need them most.
 
 Because I err on the side of speed, I strive to ensure that the details, quality, and execution of my work are always clear and concise
 
-**WHAT I VALUE MOST**
+## WHAT I VALUE MOST
 
 *Empathy
 
@@ -38,7 +38,7 @@ Because I err on the side of speed, I strive to ensure that the details, quality
 *Doing the thing. Iterate. Keep going
 
 
-**HOW TO WORK WITH ME**
+## HOW TO WORK WITH ME
 
 *I love a meeting agenda. I also love to maximize 30min meetings vs anything longer, unless its necessary
 
